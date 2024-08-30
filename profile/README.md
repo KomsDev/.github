@@ -1,4 +1,4 @@
-## Hi there ![pixel_horse16](https://github.com/user-attachments/assets/f076f11f-ede3-40be-ae31-f01619678e3f)
+## Hi there ![pixel_horse32](https://github.com/user-attachments/assets/dcd987e8-8f65-4874-b769-331ae72e15a1)
 
 
 <!--
