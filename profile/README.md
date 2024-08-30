@@ -17,9 +17,70 @@ I make Open Source
   <img src=https://github.com/user-attachments/assets/280e8cd2-a788-4ede-a9a8-61a30206c33c alt="LifePom's father" title="LifePom's father">
 </p>
 
-<p align=center>
+## Frontend
+### Common
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,python,flask,fastapi,nodejs,react,bootstrap,tailwind,firebase,mysql,postgresql,git,github,bitbucket,gitlab,docker,cloudflare,figma,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=html,css" />
+  </a>
+</p>
+
+### UI Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui" />
+  </a>
+</p>
+
+### Scripting Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,jquery" />
+  </a>
+</p>
+
+### JavaScript Frameworks/Libraries
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,angular" />
+  </a>
+</p>
+
+---
+
+## Backend
+### Programming Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,python,flask,fastapi,nodejs,go" />
+  </a>
+</p>
+
+### Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,express,dotnet" />
+  </a>
+</p>
+
+### Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb" />
+  </a>
+</p>
+
+### Server Management
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,nginx,docker,cloudflare,firebase,git,github,bitbucket,gitlab" />
+  </a>
+</p>
+
+### Embedded
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
   </a>
 </p>
 
